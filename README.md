@@ -18,7 +18,7 @@
 </header>
 ```
 
-- The index.php file will call landing-header.php file by using follwoing line.
+- The `index.php` file will call `landing-header.php` file by using follwoing line.
 
 ```ruby
 <?php get_template_part('header/landing-header'); ?>
